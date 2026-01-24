@@ -13,7 +13,7 @@ This site showcases selected analytics projects completed as part of professiona
 **Description:**  
 Descriptive analysis of reported loneliness across population groups using Office for National Statistics survey data in 2025. The project focuses on identifying high-loneliness groups within categories and benchmarking them against the national average.
 
-[View project repository](https://github.com/Sulayman-C/UK_Loneliness_Descriptive_Analysis_ONS_SQL)
+[View project repository](https://github.com/Sulayman-C/UK_Loneliness_Descriptive_Analysis_ONS_SQL/tree/main)
 
 ---
 
