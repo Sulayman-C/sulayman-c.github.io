@@ -12,7 +12,7 @@ This site showcases selected analytics projects completed as part of professiona
 **Tools:** Kotlin, Android SDK (Level 35), R8/ProGuard, GitHub  
 **Description:** A specialized Android keyboard designed for developers and analysts. Built to solve the "symbol-hunt" in mobile coding, it features 13 language-specific presets (Python, R, SQL) and 20 custom keys. Engineered with an offline-first, zero-permission architecture to ensure total data privacy.
 
-[View project repository](https://github.com/Sulayman-C/coding-keyboard) | [Download Latest APK](https://github.com/Sulayman-C/coding-keyboard/releases)
+[View project repository](https://github.com/Sulayman-C/Coding_Keyboard) | [Download Latest APK](https://github.com/Sulayman-C/Coding_Keyboard/releases)
 
 ---
 
@@ -20,7 +20,7 @@ This site showcases selected analytics projects completed as part of professiona
 **Tools:** SQL (PostgreSQL + DBeaver), GitHub Pages  
 **Description:** Descriptive analysis of reported loneliness across population groups using Office for National Statistics survey data in 2025. The project focuses on identifying high-loneliness groups within categories and benchmarking them against the national average.
 
-[View project repository](https://github.com/Sulayman-C/UK_Loneliness_Descriptive_Analysis_ONS_SQL/tree/main) | [View Data Source](https://www.ons.gov.uk/)
+[View project repository](https://github.com/Sulayman-C/UK_Loneliness_Descriptive_Analysis_ONS_SQL/tree/main) | [View Data Source](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/datasets/publicopinionsandsocialtrendsgreatbritainpersonalwellbeingandlonelinessbypersonalcharacteristics)
 
 ---
 
