@@ -14,11 +14,13 @@ This site showcases selected analytics projects completed as part of professiona
 *This section highlights my work as a lead researcher and first author in health outcomes.*
 
 - **Elderly Attitudes Towards Digital Health Technologies (Lead Modeller and Author)** [Read Paper](https://doi.org/10.1186/s12877-023-03772-x)
-    *Published in BMC Geriatrics (2023).* Analyzed survey data using OLS regressions and ANOVA to determine barriers to DHT adoption among older populations.
+- * Analyzed survey data using OLS regressions and ANOVA to determine barriers to DHT adoption among older populations.
+
 - **Multi-Country Cost-Benefit Analysis (CBA) for Vaccines (Lead Modeller)** [Read Paper](https://doi.org/10.1080/21645515.2025.2602976)
-    *Office of Health Economics (2025).* Led the development of a complex model covering four diseases across ten countries, resulting in high-impact outputs presented internationally.
+- Led the development of a complex model covering four diseases across ten countries, resulting in high-impact outputs presented internationally.
+  
 - **Quality of Life for Carers of Cystic Fibrosis Patients (Lead Modeller and Author)** [Read Paper](https://doi.org/10.1007/s11136-025-04021-x)
-    *Master’s Research Project, OHE (Distinction).* Conducted econometric analysis (STATA) on original data collected via primary survey design
+- Conducted econometric analysis (STATA) on original PROM data collected via primary survey design
 
 ---
   
