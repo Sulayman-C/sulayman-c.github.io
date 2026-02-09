@@ -1,6 +1,5 @@
 # Sulayman Chowdhury
 
-Sulayman Chowdhury
 ### **Health Data Scientist | Economic Modeler | Quantitative Researcher**
 
 I bridge the gap between complex health economic modeling and modern data science. With a background as a **Health Economist and Lead Modeller**, I specialised in turning multi-country epidemiological and seaprately, HIPPA compliant insurance data into actionable insights for national and global stakeholders, ranging from businesses to academic institutions to even the Irish Parliament.
