@@ -14,11 +14,11 @@ This site showcases selected analytics projects completed as part of professiona
 ## 📚 Selected Publications & Peer-Reviewed Research
 *This section highlights my work as a lead researcher and first author in health outcomes.*
 
-* **Elderly Attitudes Towards Digital Health Technologies (Lead Author)**
+- **Elderly Attitudes Towards Digital Health Technologies (Lead Modeller and Author)** [Read Paper](https://doi.org/10.1186/s12877-023-03772-x)
     *Published in BMC Geriatrics (2023).* Analyzed survey data using OLS regressions and ANOVA to determine barriers to DHT adoption among older populations.
-* **Multi-Country Cost-Benefit Analysis (CBA) for Vaccines (Lead Modeler)**
+- **Multi-Country Cost-Benefit Analysis (CBA) for Vaccines (Lead Modeller)** [Read Paper](https://doi.org/10.1080/21645515.2025.2602976)
     *Office of Health Economics (2025).* Led the development of a complex model covering four diseases across ten countries, resulting in high-impact outputs presented internationally.
-* **Quality of Life for Carers of Cystic Fibrosis Patients** 
+- **Quality of Life for Carers of Cystic Fibrosis Patients (Lead Modeller and Author)** [Read Paper](https://doi.org/10.1007/s11136-025-04021-x)
     *Master’s Research Project, OHE (Distinction).* Conducted econometric analysis (STATA) on original data collected via primary survey design
 
 ---
@@ -55,14 +55,14 @@ This site showcases selected analytics projects completed as part of professiona
 - **Privacy & Security:** Zero-permission architecture and secure data handling
 - **Economic Modelling:** Markov Models, Decision Tree Models, Cost-Benefit Analysis (CBA), Discrete Choice Experiments (DCE)
 - **Data Visualization:** Tableau, Excel (Expert), and presentation of complex data to non-technical parliamentary audiences
-* **Research:** Systematic Literature Reviews, Epidemiological Data Gathering, Qualitative Analysis, Interviewing, Survey Design, Modelling
+- **Research:** Systematic Literature Reviews, Epidemiological Data Gathering, Qualitative Analysis, Interviewing, Survey Design, Modelling
 
 ---
 
 ## 📈 Impact & Leadership
-**AI Taskforce Head:** Led an internal initiative at the Office of Health Economics to raise awareness of the AI landscape and integrate tools into research workflows.
-**Stakeholder Engagement:** Experienced in presenting data-driven reports to the **Irish Parliament** and national broadcasting services (RTE).
-**Project Management:** Proven track record of managing multi-country vaccine projects and junior staff for model data collection and training for large pharmaceutical client. Managed own project on burden of disease in the UK for CSU which I had then presented to a parliamentary body in Portcullis House. 
+- **AI Taskforce Head:** Led an internal initiative at the Office of Health Economics to raise awareness of the AI landscape and integrate tools into research workflows.
+- **Stakeholder Engagement:** Experienced in presenting data-driven reports to the **Irish Parliament** and national broadcasting services (RTE).
+- **Project Management:** Proven track record of managing multi-country vaccine projects and junior staff for model data collection and training for large pharmaceutical client. Managed own project on burden of disease in the UK for CSU which I had then presented to a parliamentary body in Portcullis House. 
 
 ---
 
